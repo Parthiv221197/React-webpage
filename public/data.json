@@ -1,0 +1,152 @@
+[
+    {
+      "patientName": "Pepe",
+      "Address": "35 Mountain Ave NW",
+      "aptNotes": "The root canal is in the final stage!",
+      "aptDate": "2018-11-28 13:30"
+    },
+    {
+      "patientName": "Rio",
+      "Address": "4520 Rabbit Hill Rd",
+      "aptNotes": "The cavity is not deep hence only filing required",
+      "aptDate": "2018-11-28 10:15"
+    },
+    {
+      "patientName": "Scooter",
+      "Address": "2610 Jasper Ave",
+      "aptNotes": "Just a sensation and can be relieved by filing and toothpaste",
+      "aptDate": "2018-11-28 14:45"
+    },
+    {
+      "patientName": "Nadalee",
+      "Address": "8622 Queen St W",
+      "aptNotes": "Fixing the crown",
+      "aptDate": "2018-11-28 16:00"
+    },
+    {
+      "patientName": "Scout",
+      "Address": "4571 Markham Rd",
+      "aptNotes": "The child would be treated by a pediatric dentist",
+      "aptDate": "2018-11-28 9:00"
+    },
+    {
+      "patientName": "Zera",
+      "Address": "#402/35 Fountainhead Rd",
+      "aptNotes": "Measurement of the front canine teeth needs to be taken",
+      "aptDate": "2018-11-29 13:15"
+    },
+    {
+      "patientName": "Oddball",
+      "Address": "84 Crystal Ave NW",
+      "aptNotes": "Removal of a canine teeth",
+      "aptDate": "2018-11-29 10:00"
+    },
+    {
+      "patientName": "Millie",
+      "Address": "322 Front St NW",
+      "aptNotes": "lower and upper molar teeth are not in level",
+      "aptDate": "2018-11-29 11:45"
+    },
+    {
+      "patientName": "Fluffy",
+      "Address": "258 Bay St",
+      "aptNotes": "Orthodontist appointment for providing retainers",
+      "aptDate": "2018-11-29 14:30"
+    },
+    {
+      "patientName": "Chyna",
+      "Address": "1 Bloor St W",
+      "aptNotes": "Patient complained of swollen gums on the left side",
+      "aptDate": "2018-11-29 16:00"
+    },
+    {
+      "patientName": "Wesley",
+      "Address": "20 Victoria St E",
+      "aptNotes": "Normal routine checkup",
+      "aptDate": "2018-11-29 8:30"
+    },
+    {
+      "patientName": "Pax",
+      "Address": "34 Main St W",
+      "aptNotes": "Wisdom tooth extraction required!",
+      "aptDate": "2018-11-30 10:15"
+    },
+    {
+      "patientName": "Squiggles",
+      "Address": "9251 Front St NW",
+      "aptNotes": "Teeth Whitening and aesthetic treatments",
+      "aptDate": "2018-11-30 11:30"
+    },
+    {
+      "patientName": "Lucky",
+      "Address": "93 Hilton Cresent SW",
+      "aptNotes": "A permanent tooth has became loose or is kind of completely knocked out",
+      "aptDate": "2018-11-30 14:30"
+    },
+    {
+      "patientName": "Bailey",
+      "Address": "2508 Millwood Rd S",
+      "aptNotes": "A crack in the crown and cavity developed inside the crown",
+      "aptDate": "2018-11-30 15:45"
+    },
+    {
+      "patientName": "Kiko",
+      "Address": "1604 50 St NW",
+      "aptNotes": "Periodontal surgeon appointment",
+      "aptDate": "2018-11-30 9:00"
+    },
+    {
+      "patientName": "Felix",
+      "Address": "862 Lyton Park",
+      "aptNotes": "Second measurement for crown as the first one was loose",
+      "aptDate": "2018-12-1 13:00"
+    },
+    {
+      "patientName": "Sami",
+      "Address": "138 Spadina Ave",
+      "aptNotes": "Excessive and frequent mouth ulcers",
+      "aptDate": "2018-12-1 10:00"
+    },
+    {
+      "patientName": "Cosmo",
+      "Address": "2864 Bathurst St",
+      "aptNotes": "Tooth Erosion second phase of treatment",
+      "aptDate": "2018-12-1 11:30"
+    },
+    {
+      "patientName": "Casper",
+      "Address": "23 King St W",
+      "aptNotes": "The patient frequently complains of senstivity",
+      "aptDate": "2018-12-1 15:15"
+    },
+    {
+      "patientName": "Chip",
+      "Address": "A chipped tooth because of a hard ball hit",
+      "aptNotes": "This fish has a spotty white patch developing on his back ",
+      "aptDate": "2018-12-1 8:45"
+    },
+    {
+      "patientName": "Tibbs",
+      "Address": "T102 MeadowView Manor",
+      "aptNotes": "Severe pain due to impacted tooth",
+      "aptDate": "2018-12-2 13:30"
+    },
+    {
+      "patientName": "Stich",
+      "Address": "124 Winderemere Dr.",
+      "aptNotes": "Too many teeth extraction of 4 teeth required!",
+      "aptDate": "2018-12-2 10:15"
+    },
+    {
+      "patientName": "Shadow",
+      "Address": "20 Hurontario St N",
+      "aptNotes": "Gap between the front teeth",
+      "aptDate": "2018-12-2 15:00"
+    },
+    {
+      "patientName": "Nugget",
+      "Address": "#924 10124 102 Ave",
+      "aptNotes": "Length of the teeth is shorter than normal",
+      "aptDate": "2018-12-2 9:00"
+    }
+  ]

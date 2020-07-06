@@ -1,0 +1,55 @@
+.add-appointment .card-body {
+  display: none;
+}
+
+.apt-addheading {
+  cursor: pointer;
+  user-select: none;
+}
+
+.appointment-list {
+  font-size: 1.1em;
+}
+
+.appointment-list .patient-item {
+  border-bottom: 3px dotted gray;
+}
+
+.appointment-list .patient-item:last-child {
+  border-bottom: none;
+}
+
+.appointment-list .patient-name {
+  font-weight: 600;
+  font-size: 1.3em;
+  line-height: 100%;
+}
+
+.appointment-list .label-item {
+  font-weight: 600;
+}
+
+.appointment-list .apt-date {
+  font-style: italic;
+  font-weight: 400;
+}
+
+.appointment-list .Address {
+  line-height: 120%;
+  font-weight: 400;
+}
+
+.appointment-list .apt-notes {
+  line-height: 120%;
+  font-weight: 400;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: grey;
+}
+
+#hov:hover{
+  font-size: 130%;
+  color: white;
+}
